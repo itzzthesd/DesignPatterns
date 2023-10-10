@@ -1,5 +1,5 @@
 package Eager;
-//single threaded environement
+//single threaded environement - singleton
 public class DBconnection {
     private static DBconnection instance = new DBconnection();
 
