@@ -1,7 +1,7 @@
 package FactoryPackage;
 
 import FactoryPackage.components.Button;
-
+// factory is about the object creation as per the input
 public class Client {
     public static void main(String[] args) {
         Flutter f = new Flutter();
